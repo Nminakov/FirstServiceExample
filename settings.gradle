@@ -1,0 +1,4 @@
+rootProject.name='FirstServiceExample'
+include ':app'
+include ':remoteservielauncher'
+include ':app:dzservice'
